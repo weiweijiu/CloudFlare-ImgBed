@@ -37,7 +37,7 @@ binding = "IMAGES"
 
 # [[r2_buckets]]
 # binding = "img_r2"
-# bucket_name = ""
+# bucket_name = "img-r2"
 
 # [[kv_namespaces]]
 # binding = "img_url"
